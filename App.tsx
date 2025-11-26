@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { Navbar } from './components/Navbar';
+import { Navbar } from './components/navbar';
 import { Landing } from './pages/Landing';
 import { Login } from './pages/Login';
 import { ClientPortal } from './pages/ClientPortal';
